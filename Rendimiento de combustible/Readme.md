@@ -1,4 +1,4 @@
-# Cantidad Litros Pintura
+# Rendimiento de combustible
 
 
 Crea un archivo de python nuevo y modifica el siguiente código:
