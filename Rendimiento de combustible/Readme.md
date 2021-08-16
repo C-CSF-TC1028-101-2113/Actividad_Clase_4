@@ -1,7 +1,7 @@
 # Rendimiento de combustible
 
 
-Crea un archivo de python nuevo y modifica el siguiente código:
+Crea un archivo de python nuevo y modifica el siguiente código para que realize lo que se te pide:
 
 ```python
 def main():
